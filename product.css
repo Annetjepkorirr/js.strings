@@ -1,0 +1,329 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+    nav ul li{
+        list-style-type: none;
+        display: inline-block;
+        padding: 10px 20px;
+    }
+
+.nav{
+    text-align: center;
+    font-size: 17px;
+    
+}
+/* .flag img{
+    margin-left: 900px;
+    margin-top: -500px;
+    width: 35px;
+} */
+
+#flag{
+    margin-left: 40px;
+    width: 35px;   
+}
+#bk{
+    margin-left: 90px;
+    width: 70px;
+    margin-top: 30px;
+}
+.hcs{
+    margin-left: 180px;
+    margin-top: -40px;
+    font-size: 30px;
+}
+.color{
+    background-color: yellow;
+    height: 90px;
+}
+#catlog{
+    /* margin-right: 300px; */
+    /* padding-bottom: 120000px; */
+    margin-top: -25px;
+
+    
+}
+.log{
+    padding: 10px;
+    font-size: 20px;
+}
+.alog{
+    background-color: whitesmoke;
+    width: 100px;
+    margin-left: 360px;   
+}
+.but{
+    margin-left: 550px;
+    margin-top: -20px;
+}
+.tone{
+    width:150px;
+
+}
+.search{
+    margin-top: -18px;
+    padding-left: 20px;
+}
+.icons{
+    margin-left: 1100px;
+}
+#cart{
+    margin-left: 10px;
+}
+#contact{
+    margin-left: 15px;
+}
+.home{
+    padding-top: 40px; 
+}
+
+#lim{
+    margin-left: 50px;
+}
+#dash{
+    padding-left: 10px;
+}
+
+.lego{
+    margin-left: 110px;
+    margin-top: -18px;
+    font-size: large;
+}
+
+.walk{
+    margin-left: 230px;
+    margin-top: -18px;
+}
+.tton{
+    margin-left: 90px;
+    margin-top: 20px;
+    border-radius: 50px;
+    background-color: maroon;
+    color: whitesmoke;
+}
+.ley img{
+    width: 500px;
+    margin-left: 90px;
+  
+}
+
+.step img{
+    width: 100px;
+    margin-left: 130px;
+    
+
+}
+.zomb img{
+    width: 100px;
+    margin-left: 365px;
+    margin-top: -90px;
+}
+.zomb{
+    margin-top: -20px;
+}
+.drags img{
+    width: 100px;
+    margin-left: 253px;
+
+}
+.drags{
+    margin-top: -80px;
+
+}
+.robots img{
+    width: 70px;
+    margin-left: 510px;
+
+}
+.robots{
+    margin-top: -90px;
+}
+.art{
+    margin-left: 800px;
+
+}
+.nums{
+    margin-right: 800px;
+}
+.stars{
+    margin-left: 800px;
+    color: yellow;
+}
+.avail{
+    margin-left: 800px;
+}
+#add{
+    color: green;
+}
+.tag{
+    background-color: yellow;
+    padding: 10px 12px;
+}
+.number{
+    background-color: whitesmoke;
+    width: 40px;
+}
+.down{
+    margin-top: 80px;
+}
+.build{
+    margin-left: 800px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+#map{
+    background-color: yellow;
+    padding: 3px 7px;
+    color: white;
+}
+#pick{
+    background-color: purple;
+    padding: 3px 6px;
+    color: white;
+}
+#nov{
+    background-color: red;
+    padding: 3px 6px;
+    color: white;
+}
+.future{
+    margin-left: 1100px;
+    margin-top: -120px;
+}
+.adres{
+    color: palevioletred;
+}
+.frere{
+    color: green;
+}
+.vary{
+    color: green;
+}
+.describe{
+    display: flex;
+    margin-top: 240px;
+    margin-left: 450px;
+}
+.explain{
+    font-weight: bold;
+    font-size: 20px;
+    background-color: yellow;
+    padding: 8px 40px;
+    border-radius: 8px;
+}
+.view{
+    font-weight: bold;
+    font-size: 20px;
+    background-color: whitesmoke;
+    padding: 8px 40px;
+    border-radius: 8px;
+    margin-left: 50px;
+}
+.video{
+    font-weight: bold;
+    font-size: 20px;
+    background-color: whitesmoke;
+    padding: 8px 40px;
+    border-radius: 8px;
+    margin-left: 50px;
+}
+.line{
+    background-color: grey;
+    height: 1px;
+}
+.stmt{
+    margin-left: 250px;
+    padding: 40px;
+    font-size: large;
+}
+.vans{
+    margin-left: 600px;
+    font-size: 40px;
+}
+.c img{
+    width: 300px;
+    margin-left: 330px;
+    background-color: yellow;
+    border: yellow solid;
+    border-radius: 15px;
+}
+.s img{
+    width: 250px;
+    margin-left: 680px;
+    margin-top: -200px;
+    border: yellow solid;
+    border-radius: 15px;
+       
+}
+.s1 img{
+    width: 230px;
+    margin-left: 450px;
+    border: yellow solid;
+    border-radius: 15px;
+}
+.able img{
+    width: 200px;
+    margin-left: 100px;
+    height: 185px;
+    
+
+    
+}
+.side img{
+    width: 200px;
+    margin-left: 395px;
+    margin-top: -150px;
+    /* height: 55vh; */
+}
+.side{
+    margin-top: -60px;
+}
+.finity img{
+    width: 200px;
+    margin-left: 700px;
+    margin-top: -200px;
+    
+}
+.finity{
+    margin-top: -50px;
+
+}
+.wild img{
+    width: 290px;
+    margin-left: 950px;
+    margin-top: -200px;
+    /* height: 60vh; */
+}
+.wild{
+    margin-top: -180px;
+}
+.heading{
+    text-align:center ;
+    margin-top: -10px;
+    font-size: 40px;
+}
+.justify{
+    margin-left: 170px;
+}
+.dago{
+    margin-left: 430px;
+}
+.guard{
+    margin-left: 770px;
+    margin-bottom: 120px;
+}
+.sant{
+    margin-left:1070px ;
+}
+.display{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;  
+    height: 25vh; 
+}
+.private{
+    /* display: flex; */
+    display: flex;
+    /* justify-content: space-around; */
+}
