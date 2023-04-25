@@ -1,0 +1,179 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.order img{
+    margin-left: 70px;
+    width: 90px;
+    margin-top: 30px;
+}
+.peace{
+    display: flex;
+    background-color: #FFD600;
+    
+}
+.move{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 50px;
+}
+.icons{
+    margin-left: 400px;
+    margin-top: 50px;
+    gap: 10%;
+}
+.headings{
+    margin-left: 20px;
+}
+.first{
+    border-radius: 80px;
+    margin-left: 30px; 
+}
+.name{
+    padding: 10px 90px;
+    border-radius: 10px;
+}
+.last{
+    margin-left: 350px;
+    margin-top: -68px;
+}
+.ident{
+    padding: 10px 90px;
+    border-radius: 10px;
+}
+.phone{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.button1{
+    padding: 10px 45px;
+    border-radius: 10px;
+}
+.gmail{
+    margin-left: 350px;
+    margin-top: -65px;
+}
+.button2{
+    padding: 10px 74px;
+    border-radius: 10px;
+
+}
+.product{
+    margin-left: 700px;
+    margin-top: -220px;
+    border: solid whitesmoke;
+    margin-right: 40px;
+    padding: 40px;
+
+}
+.steady{
+    color: cornflowerblue;
+}
+.cash{
+    color:cornflowerblue ;
+    margin-left: 200px;
+    margin-top: -20px;
+}
+.allow{
+    color: green;
+}
+.save{
+    border-radius: 10px ;
+    padding: 10px 50px;
+    border-color: green;
+    color: green;
+
+}
+.code{
+    border-radius: 10px ;
+    padding: 10px 50px;
+}
+.confirm{
+    border-radius: 10px ;
+    padding: 10px 50px;
+    background-color: yellow;
+    color: white;
+}
+.arrow{
+    font-size: 70px;
+    color: palevioletred;
+}
+.site{
+    font-size: 70px;
+    color: red;
+    margin-top: 30px;
+}
+.map{
+    font-size: 70px;
+    color: yellow;
+    margin-top: 40px;
+}
+.marg{
+    margin-left: 40px;
+}
+.up{
+    margin-left: 200px;
+    margin-top: -50px;
+}
+.nova{
+    margin-left: 200px;
+    margin-top: -50px;
+}
+.vary{
+    margin-left: 200px;
+    margin-top: -50px;
+}
+.open{
+    margin-left: 600px;
+    margin-top: -220px;
+}
+.adres{
+    color: palevioletred;
+    font-size: 25px;
+}
+.free{
+    margin-top: 70px;
+    color: green;
+}
+.ada{
+    margin-top: 80px;
+    color: green;
+}
+.pay{
+    margin-top: 90px;
+    margin-left: 40px;
+}
+.trueicons{
+    margin-left: 40px;
+    font-size:70px ;
+    margin-top: 30px;
+}
+
+.cashless{
+    margin-top: -210px;
+    margin-left: 300px;
+}
+.google{
+    margin-left: 300px;
+    margin-top: 70px;
+}
+.apple{
+    margin-left: 300px;
+    margin-top: 70px;
+}
+.money{
+    color: yellow;
+}
+.info1{
+    margin-left: 700px;
+    margin-top: -210px;
+}
+.info2{
+    margin-left: 700px;
+    margin-top: 100px;
+}
+.info3{
+    margin-left: 700px;
+    margin-top: 70px;
+    color: coral;
+}

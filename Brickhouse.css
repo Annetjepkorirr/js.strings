@@ -134,7 +134,7 @@
 }
 .sase{
     margin-left: 700px;
-    margin-top: -280px;
+    margin-top: -250px;
 }
 .free{
     margin-left: 1000px;
@@ -144,9 +144,12 @@
     margin-left: 350px;
     margin-top: 90px;
 }
-.hase{
+.hase img{
     margin-left: 700px;
-    margin-top: -280px;
+    margin-top: -800px;
+}
+.hase{
+    margin-top: -100px;
 }
 .fitch{
     margin-left: 1010px;
